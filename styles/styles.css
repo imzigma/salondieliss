@@ -4,27 +4,3 @@ body{
     font-family: 'Alegreya Sans SC', sans-serif;
     font-weight: bold;
 }
-
-.border-down{
-    border-bottom: 1px solid #dee2e6;
-}
-.btn-menu:hover{
-    color: #FFA8AD;
-}
-.hero-image{
-    background-image: url('https://images.pexels.com/photos/3762762/pexels-photo-3762762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height:100vh;
-}
-
-.btn-cita{
-    border: 1px solid; 
-    border-radius: 50rem;
-}
-
-.btn-cita:hover{
-    background-color: white;
-    color: #FFA8AD!important;
-}
